@@ -25,17 +25,17 @@ Nous utilisons la plus grande flexibilité
 <img src="./Screen/volumefinbis.png">
 
 3. Choix du type de groupe de stockage 
-<img src="./Screen/volume1.png">
+<img src="/volume1.png">
 Nous utilisons la plus grande flexibilité 
 
 4. Sélection du groupe de stockage. Choisissez le groupe de stockage que vous avez créé au préalable puis suivant.
-<img src="./Screen/volume2.png">
+<img src="/volume2.png">
 
 5. Choix du systeme de fichiers on garde le systeme recommandé
-<img src="./Screen/volume3.png">
+<img src="/volume3.png">
 
 6. Résultat
-<img src="./Screen/volumefin.png">
+<img src="/volumefin.png">
 
 ## ISCSI 
 
