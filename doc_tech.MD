@@ -8,34 +8,34 @@
 <img src="./Screen/groupe_stockage_fin_bis.png">
 
 3. Choix du type de groupe de stockage
-<img src="./Screen/groupestockage 1.png">
+<img src="./Screen/groupestockage1.png">
 Nous utilisons la plus grande flexibilité 
 4. Choix des propriétés du groupe de stockage
-<img src="./Screen/groupestockage 2.png">
+<img src="./Screen/groupestockage2.png">
 5. Choix des disques suivant 
-<img src="./Screen/groupestockage 3.png">
+<img src="./Screen/groupestockage3.png">
 6. Résultat
-<img src="./Screen/groupestockage fin.png">
+<img src="./Screen/groupestockagefin.png">
 
 
 ### Création d'un volume
 
 1. Ouvrir le gestionnaire de stockage
 2. Allez dans volume et créer
-<img src="./Screen/volume fin bis.png">
+<img src="./Screen/volumefinbis.png">
 
 3. Choix du type de groupe de stockage 
-<img src="./Screen/volume 1.png">
+<img src="./Screen/volume1.png">
 Nous utilisons la plus grande flexibilité 
 
 4. Sélection du groupe de stockage. Choisissez le groupe de stockage que vous avez créé au préalable puis suivant.
-<img src="./Screen/volume 2.png">
+<img src="./Screen/volume2.png">
 
 5. Choix du systeme de fichiers on garde le systeme recommandé
-<img src="./Screen/volume 3.png">
+<img src="./Screen/volume3.png">
 
 6. Résultat
-<img src="./Screen/volume fin.png">
+<img src="./Screen/volumefin.png">
 
 ## ISCSI 
 
