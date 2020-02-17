@@ -8,14 +8,14 @@
 <img src="./Screen/groupe_stockage_fin_bis.png">
 
 3. Choix du type de groupe de stockage
-<img src="./Screen/groupestockage1.png">
+<img src="/groupestockage1.png">
 Nous utilisons la plus grande flexibilité 
 4. Choix des propriétés du groupe de stockage
-<img src="./Screen/groupestockage2.png">
+<img src="/groupestockage2.png">
 5. Choix des disques suivant 
-<img src="./Screen/groupestockage3.png">
+<img src="/groupestockage3.png">
 6. Résultat
-<img src="./Screen/groupestockagefin.png">
+<img src="/groupestockagefin.png">
 
 
 ### Création d'un volume
